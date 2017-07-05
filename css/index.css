@@ -1,0 +1,228 @@
+/************
+*  General   *
+*************/
+
+body {
+	background:#efefef;
+    font-family:Arial, Helvetica;	
+}
+
+#logo {
+	text-align:center;
+}
+
+/************
+*  Enlaces   *
+*************/
+
+#enlaces {
+	margin:10px;
+	margin-left:505px;
+}
+
+.destiny {
+  background-color:#2E3EB1; 
+  color: #ffffff;
+  font-size: 20px;
+  border:0px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left:30px;
+}
+
+.destiny:hover {
+	background:#4C5BC6;
+}
+
+.btn {
+  background-color:#000; 
+  color: #ffffff;
+  font-size: 20px;
+  border:0px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left:30px;
+}
+
+.btn:hover {
+	background:#4F4F4F;
+}
+
+.git {
+  background-color:#1AAE30; 
+  color: #000;
+  font-size: 20px;
+  border:0px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left:30px;
+}
+
+.git:hover {
+	background:#4DC65F;
+}
+
+.destiny-conection {
+   font-family: sans-serif;
+   font-size: 18px;
+   font-weight: 400;
+   height:20px;
+   margin-top:20px;
+   color: #ffffff;
+   background: #889ccf;
+   margin: 0 0 25px;
+   overflow: hidden;
+   padding: 20px;
+   border-radius: 2px;
+   border: 5px #5878ca;
+}
+
+/************
+*  Tiers   *
+*************/
+
+#cajas {
+	text-align:center;
+	margin-left:115px;
+	margin-top:40px;
+}
+
+#cajas a {
+	color:#000000;
+	text-decoration:none;
+}
+
+#cajas a:hover {
+	color:#3F3FBA;
+}
+
+#cajas h2 {
+	text-decoration:underline;
+}
+
+.ou-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #d8ecf7;
+    border: 1px solid #afcde3;
+	float:left;
+    margin-left:10px;	
+}
+
+.ubers-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #f9dbdb;
+    border: 1px solid #e9b3b3;
+	float:left;
+    margin-left:5px;	
+	margin-right:50px;
+}
+
+.uu-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #fef5c4;
+    border: 1px solid #fadf98;
+	float:left;
+    margin-right:5px;	
+	margin-left:50px;
+}
+
+.ru-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #d9edc2;
+    border: 1px solid #b2ce96;
+	float:left;
+    margin-left:5px;
+	margin-right:50px;
+	
+}
+
+.nu-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #e2e2f9;
+    border: 1px solid #bebde9;
+    float:left;
+    margin-left:10px;	
+}
+
+.lc-box {
+	width:350px;
+	height:70px;
+	margin: 0 0 25px;
+    overflow: hidden;
+    background-color: #F9DBF0;
+    border: 1px solid #E9B3D9;
+    float:left;
+    margin-right:5px;	
+	margin-left:50px;
+}
+
+/************
+*  Nuevo     *
+*************/
+
+.agregados-r {
+	text-align:center;
+	text-decoration:underline;
+}
+
+.equipos-new {
+	background-color:#FFFFFF;
+    border: 1px solid #333333;
+	border-radius:35px;
+	width:250px;
+	height:70px;
+	float:left;
+	margin-left:160px;
+}
+
+.equipos-new img {
+	margin-top:15px;
+}
+
+.equipos-new2 {
+	background-color:#FFFFFF;
+    border: 1px solid #333333;
+	border-radius:35px;
+	width:250px;
+	height:70px;
+	float:left;
+	margin-top:30px;
+	margin-left:160px;
+}
+
+.equipos-new2 img {
+	margin-top:15px;
+}
+
+/*************
+*  Footer     *
+*************/
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #B4B4B4;
+  text-align: center;
+}
+
+
+
+
